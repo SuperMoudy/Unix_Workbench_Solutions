@@ -74,7 +74,7 @@ fib 10
 
         for num in $@
         do
-            let res=res\*num
+            let res=$res\*$num
         done
 
         echo $res
@@ -111,7 +111,7 @@ fib 10
 
         for num in $@
         do
-            let sum=sum+$(isiteven $num)
+            let sum=$sum+$(isiteven $num)
         done
 
         echo $sum
