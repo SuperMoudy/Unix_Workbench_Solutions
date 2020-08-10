@@ -19,5 +19,4 @@
     read verb
 
     echo "Sentence: $noun $verb $adj."
-
     ```
