@@ -26,16 +26,16 @@
         let j=0
         echo "For number $i:"
 
-        while [[ j -lt 10 ]]
+        while [[ $j -lt 10 ]]
         do
-            let n=i\*j
+            let n=$i\*$j
 
-            if [[ n -gt 20 ]] && [[ n -lt 80 ]]
+            if [[ $n -gt 20 ]] && [[ $n -lt 80 ]]
             then
                 echo $n
             fi
 
-            let j=j+1
+            let j=$j+1
         done
 
         echo ""
