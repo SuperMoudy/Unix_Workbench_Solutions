@@ -11,10 +11,13 @@
 
     echo -n "Enter an adjective: "
     read adj
+
     echo -n "Enter a noun: "
     read noun
+
     echo -n "Enter a verb: "
     read verb
+
     echo "Sentence: $noun $verb $adj."
 
     ```
