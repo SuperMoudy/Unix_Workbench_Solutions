@@ -118,7 +118,7 @@ many useful and practical examples.
 
 ## Contributions
 
-> Everyone is welcome to contribute to this [repo]()
+> Everyone is welcome to contribute to this [repo](https://github.com/SuperMoudy/Unix_Workbench_Solutions)
 
 ### Types of contribution:
 1. Fixing a typo.
@@ -131,7 +131,7 @@ many useful and practical examples.
 
 
 ### Steps of contribution:
-1. Fork this [repo]().
+1. Fork this [repo](https://github.com/SuperMoudy/Unix_Workbench_Solutions).
 
 2. Clone your fork on your local machine.
 
@@ -144,7 +144,7 @@ many useful and practical examples.
 6. Create a pull request to my repo (base is my master and head is your new branch).
 
 ### Notes on contribution
-1. If you are solving a new Exercises section, stick to the naming convention in this [repo]().
+1. If you are solving a new Exercises section, stick to the naming convention in this [repo](https://github.com/SuperMoudy/Unix_Workbench_Solutions).
 
 2. If you are introducing a more interesting solution, don't remove my own but concatenate to it. For example:
 
