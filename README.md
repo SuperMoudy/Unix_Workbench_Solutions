@@ -1,8 +1,6 @@
 # The Unix Workbench Book (My solutions)
 
-<p align="center">
-<img  src = images/cover.png>
-</p>
+![The Unix Workbench Book Cover](images/cover.png)
 
 > You can read the book from [here](https://seankross.com/the-unix-workbench/)
 
