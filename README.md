@@ -151,6 +151,7 @@ many useful and practical examples.
     ```
 
     > A more interesting solution:
+    
     ```bash
     # Your solution
     ```
