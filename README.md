@@ -52,65 +52,65 @@ many useful and practical examples.
 
 ## Chapter 3: Command Line Basics
 
-- [3.1.2 Exercises](/blob/master/Ch03_Command_Line_Basics/README.md#312-exercises)
+- [3.1.2 Exercises](Unix_Workbench_Solutions/blob/master/Ch03_Command_Line_Basics/README.md#312-exercises)
 
-- [3.2.2 Exercises](/blob/master/Ch03_Command_Line_Basics/README.md#322-exercises)
+- [3.2.2 Exercises](Unix_Workbench_Solutions/blob/master/Ch03_Command_Line_Basics/README.md#322-exercises)
 
-- [3.3.2 Exercises](/blob/master/Ch03_Command_Line_Basics/README.md#332-exercises)
+- [3.3.2 Exercises](Unix_Workbench_Solutions/blob/master/Ch03_Command_Line_Basics/README.md#332-exercises)
 
-- [3.4.2 Exercises](/blob/master/Ch03_Command_Line_Basics/README.md#342-exercises)
+- [3.4.2 Exercises](Unix_Workbench_Solutions/blob/master/Ch03_Command_Line_Basics/README.md#342-exercises)
 
 ---
 
 ## Chapter 4: Working with Unix
 
-- [4.1.2 Exercises](/blob/master/Ch04_Working_with_Unix/README.md#412-exercises)
+- [4.1.2 Exercises](Unix_Workbench_Solutions/blob/master/Ch04_Working_with_Unix/README.md#412-exercises)
 
-- [4.2.2 Exercises](/blob/master/Ch04_Working_with_Unix/README.md#422-exercises)
+- [4.2.2 Exercises](Unix_Workbench_Solutions/blob/master/Ch04_Working_with_Unix/README.md#422-exercises)
 
-- [4.3.7 Exercises](/blob/master/Ch04_Working_with_Unix/README.md#437-exercises)
+- [4.3.7 Exercises](Unix_Workbench_Solutions/blob/master/Ch04_Working_with_Unix/README.md#437-exercises)
 
-- [4.6.2 Exercises](/blob/master/Ch04_Working_with_Unix/README.md#462-exercises)
+- [4.6.2 Exercises](Unix_Workbench_Solutions/blob/master/Ch04_Working_with_Unix/README.md#462-exercises)
 
 ---
 
 ## Chapter 5: Bash Programming
 
-- [5.1.2 Exercises](/blob/master/Ch05_Bash_Programming/5-1-Math.md)
+- [5.1.2 Exercises](Unix_Workbench_Solutions/blob/master/Ch05_Bash_Programming/5-1-Math.md)
 
-- [5.2.2 Exercises](/blob/master/Ch05_Bash_Programming/5-2-Variables.md)
+- [5.2.2 Exercises](Unix_Workbench_Solutions/blob/master/Ch05_Bash_Programming/5-2-Variables.md)
 
-- [5.3.2 Exercises](/blob/master/Ch05_Bash_Programming/5-3-User-Input.md)
+- [5.3.2 Exercises](Unix_Workbench_Solutions/blob/master/Ch05_Bash_Programming/5-3-User-Input.md)
 
-- [5.4.5 Exercises](/blob/master/Ch05_Bash_Programming/5-4-Logic-and-If-Else.md)
+- [5.4.5 Exercises](Unix_Workbench_Solutions/blob/master/Ch05_Bash_Programming/5-4-Logic-and-If-Else.md)
 
-- [5.5.2 Exercises](/blob/master/Ch05_Bash_Programming/5-5-Arrays.md)
+- [5.5.2 Exercises](Unix_Workbench_Solutions/blob/master/Ch05_Bash_Programming/5-5-Arrays.md)
 
-- [5.6.2 Exercises](/blob/master/Ch05_Bash_Programming/5-6-Braces.md)
+- [5.6.2 Exercises](Unix_Workbench_Solutions/blob/master/Ch05_Bash_Programming/5-6-Braces.md)
 
-- [5.7.5 Exercises](/blob/master/Ch05_Bash_Programming/5-7-Loops.md)
+- [5.7.5 Exercises](Unix_Workbench_Solutions/blob/master/Ch05_Bash_Programming/5-7-Loops.md)
 
-- [5.8.4 Exercises](/blob/master/Ch05_Bash_Programming/5-8-Functions.md)
+- [5.8.4 Exercises](Unix_Workbench_Solutions/blob/master/Ch05_Bash_Programming/5-8-Functions.md)
 
-- [5.9.5 Exercises](/blob/master/Ch05_Bash_Programming/5-9-Writing-Programs.md)
+- [5.9.5 Exercises](Unix_Workbench_Solutions/blob/master/Ch05_Bash_Programming/5-9-Writing-Programs.md)
 
 ---
 
 ## Chapter 6: Git and Github
 
-- [6.3.2 Exercises](/blob/master/Ch06_Git_and_Github/6-3-Getting-Started-with-Git.md)
+- [6.3.2 Exercises](Unix_Workbench_Solutions/blob/master/Ch06_Git_and_Github/6-3-Getting-Started-with-Git.md)
 
-- [6.4.4 Exercises](/blob/master/Ch06_Git_and_Github/6-4-Important-Git-Features.md)
+- [6.4.4 Exercises](Unix_Workbench_Solutions/blob/master/Ch06_Git_and_Github/6-4-Important-Git-Features.md)
 
-- [6.5.2 Exercises](/blob/master/Ch06_Git_and_Github/6-5-Branching.md)
+- [6.5.2 Exercises](Unix_Workbench_Solutions/blob/master/Ch06_Git_and_Github/6-5-Branching.md)
 
-- [6.6.6 Exercises](/blob/master/Ch06_Git_and_Github/6-6-GitHub.md)
+- [6.6.6 Exercises](Unix_Workbench_Solutions/blob/master/Ch06_Git_and_Github/6-6-GitHub.md)
 
 ---
 
 ## Chapter 7: Nephology
 
-- [7.4.5 Exercises](/blob/master/Ch07_Nephology/7-4-Cloud-Computing-Basics.md)
+- [7.4.5 Exercises](Unix_Workbench_Solutions/blob/master/Ch07_Nephology/7-4-Cloud-Computing-Basics.md)
 
 ---
 
