@@ -12,7 +12,6 @@
 2. Find a file online that changes periodically, then write a program to download that file every time it changes.
 
     - Method 1: Manually using console
-    
     ```bash
     $ curl -O The_link_to_the_file
     ```
@@ -22,7 +21,6 @@
     crontab -e
     ```
     > Edit the `cron` table file and adjust your preferred period:
-
     ```bash
     # Edit this file to introduce tasks to be run by cron.
     #
