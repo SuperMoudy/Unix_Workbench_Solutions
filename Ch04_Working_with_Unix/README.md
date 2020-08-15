@@ -8,6 +8,7 @@
     $ man ls
     ```
     > And in the man page search:
+    
     ```
     /human-readable
     ```

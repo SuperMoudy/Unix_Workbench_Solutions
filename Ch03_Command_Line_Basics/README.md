@@ -120,11 +120,13 @@
 3. Delete both copies of message.txt. Try to do this without using rm.
 
     > We firstly want to find an alternative to rm:
+
     ```bash
     $ apropos remove
     ```
 
     > Found a command called unlink
+    
     ```bash
     $ unlink message.txt path/to/another/directory/message.txt
     ```
