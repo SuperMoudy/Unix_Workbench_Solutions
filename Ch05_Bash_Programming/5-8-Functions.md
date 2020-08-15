@@ -22,39 +22,50 @@ Below this list of exercises you can find examples of how these programs should 
 
 5. Write a function called `fib` which prints the number of [fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number) numbers specified.
 
-```{r, engine='bash', eval=FALSE}
-plier 7 2 3
+```bash
+$ plier 7 2 3
 ```
+
 ```
 ## 42
 ```
-```{r, engine='bash', eval=FALSE}
-isiteven 42
+
+```bash
+$ isiteven 42
 ```
+
 ```
 ## 1
 ```
-```{r, engine='bash', eval=FALSE}
-nevens 42 6 7 9 33
+
+```bash
+$ nevens 42 6 7 9 33
 ```
+
 ```
 ## 2
 ```
-```{r, engine='bash', eval=FALSE}
-howodd 42 6 7 9 33
+
+```bash
+$ howodd 42 6 7 9 33
 ```
+
 ```
 ## .60
 ```
-```{r, engine='bash', eval=FALSE}
-fib 4
+
+```bash
+$ fib 4
 ```
+
 ```
 ## 0 1 1 2
 ```
-```{r, engine='bash', eval=FALSE}
-fib 10
+
+```bash
+$ fib 10
 ```
+
 ```
 ## 0 1 1 2 3 5 8 13 21 34
 ```
@@ -81,7 +92,14 @@ fib 10
     }
 
     # Test:
+    # Method 1:
+    # Uncomment the next line here and run the script using bash
     # plier $@
+
+    # Method 2:
+    # Write the next line in the command line then call 
+    # the function name with arbitrary arguments
+    # source ex5-8-q1.sh
     ```
 
 2. `isiteven`
@@ -96,7 +114,14 @@ fib 10
     }
 
     # Test:
+    # Method 1:
+    # Uncomment the next line here and run the script using bash
     # isiteven $1
+
+    # Method 2:
+    # Write the next line in the command line then call 
+    # the function name with arbitrary arguments
+    # source ex5-8-q2.sh
     ```
 
 3. `nevens`
@@ -118,7 +143,14 @@ fib 10
     }
 
     # Test:
+    # Method 1:
+    # Uncomment the next line here and run the script using bash
     # neven $@
+
+    # Method 2:
+    # Write the next line in the command line then call 
+    # the function name with arbitrary arguments
+    # source ex5-8-q3.sh
     ```
 
 4. `howodd`
@@ -135,7 +167,14 @@ fib 10
     }
 
     # Test:
+    # Method 1:
+    # Uncomment the next line here and run the script using bash
     # howodd $@
+
+    # Method 2:
+    # Write the next line in the command line then call 
+    # the function name with arbitrary arguments
+    # source ex5-8-q4.sh
     ```
 
 5. `fib`
@@ -177,5 +216,12 @@ fib 10
     }
 
     # Test:
+    # Method 1:
+    # Uncomment the next line here and run the script using bash
     # fib $1
+
+    # Method 2:
+    # Write the next line in the command line then call 
+    # the function name with arbitrary arguments
+    # source ex5-8-q5.sh
     ```

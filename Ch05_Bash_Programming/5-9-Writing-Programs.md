@@ -17,24 +17,30 @@ Below this list of exercises you can find examples of how the programs described
 
 4. Write a program called `extremes` which prints the maximum and minimum values of a sequence of numbers.
 
-```{r, engine='bash', eval=FALSE}
-range 6
+```bash
+$ range 6
 ```
+
 ```
 ## 0 1 2 3 4 5 6
 ```
-```{r, engine='bash', eval=FALSE}
-range -3
+
+```bash
+$ range -3
 ```
+
 ```
 ## -3 -2 -1 0
 ```
-```{r, engine='bash', eval=FALSE}
-extremes 8 2 9 4 0 3
+
+```bash
+$ extremes 8 2 9 4 0 3
 ```
+
 ```
 ## 0 9
 ```
+
 ---
 ### Solutions
 
@@ -51,11 +57,11 @@ extremes 8 2 9 4 0 3
     ```bash
     source script_name.sh
     ```
-
     > Then, write this in the shell
     ```bash
     source ~/.bash_profile # or ~/.bashrc
     ```
+    
 ---
 2. Making the script directory a part of `PATH`:
 
@@ -80,6 +86,7 @@ extremes 8 2 9 4 0 3
 
     # Test:
     # range $1
+    # or source your script and call in the command line
     ```
 
 ---
@@ -102,5 +109,6 @@ extremes 8 2 9 4 0 3
 
     # Test:
     # extremes $@
+    # or source your script then call in the command line
     ```
     
